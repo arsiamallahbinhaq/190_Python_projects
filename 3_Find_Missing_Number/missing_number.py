@@ -7,5 +7,6 @@ def findMissingNumbers(n):
             output.append(i)
     return output
 
+#change the list numbers to test your cases
 listNumbers = [1,3,4,5,6,8,10,12]
 print(findMissingNumbers(listNumbers))
